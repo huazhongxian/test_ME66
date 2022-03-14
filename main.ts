@@ -1,12 +1,12 @@
-/*
+﻿/*
 Riven
 load dependency
-"newland": "file:../pxt-newland"
+"ME66": "file:../pxt-newland"
 */
 
 //% color="#5c7cfa" weight=10 icon="\uf16b"
 //% groups='["Basic", "Graphic", Classifier", "Tag/Code", "Audio", "Face", "Wifi", "CloudAI", "AI"]'
-namespace newland {
+namespace ME66 {
   //type起个新类型
   type EvtAct = () => void
   type EvtNum = (num: number) => void
